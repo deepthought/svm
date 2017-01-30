@@ -1,0 +1,11 @@
+[package]
+authors = ["Vincent Esche <regexident@gmail.com>"]
+categories = ["science"]
+description = "Implementation of a modern Support Vector Machine toolbox library"
+keywords = ["svm", "support-vector", "smo", "machine-learning", "non-linear"]
+license = "MPL-2.0"
+name = "svm"
+repository = "https://github.com/deepthought/svm"
+version = "0.1.0"
+
+[dependencies]
